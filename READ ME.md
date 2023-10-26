@@ -1,9 +1,9 @@
-SQL projekt
+# SQL projekt
 
-#Zadání projektu
+# Zadání projektu
 Cílem projektu analyzovat dostupnost základních potravin široké veřejnosti prostřednictvím výzkumných otázek v ČR.
 
-#Struktrura projektu
+# Struktrura projektu
 1. úkolem je připravit datové podklady, ve kterých bude možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v ČR. Tabulka s názvem t_{Ivana}_{Kingma}_project_SQL_primary_final.
 
 2. úkolem je připravit tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR. Tabulka s názvem t_{Ivana}_{Kingma}_project_SQL_secondary_final. 
