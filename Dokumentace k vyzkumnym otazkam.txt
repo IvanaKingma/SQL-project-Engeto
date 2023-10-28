@@ -1,0 +1,15 @@
+2.Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+
+Jméno produktu			Rok	Cena	Hrub.mzda	Počet 
+
+Chléb konzumní kmínový		2018	24.24	32535.86	1342.0
+Mléko polotučné pasterované	2018	19.82	32535.86	1642.0
+
+
+Chléb konzumní kmínový		2006	16.12	20753.78	1287.0
+Mléko polotučné pasterované	2006	14.44	20753.78	1437.0
+
+Z dostupných dat vyplývá, že v prvním srovnatelném období, které je rok 2006, byla průměrná roční mzda 20753.78 Kč. V tomto roce byla průměrná cena chleba konzumního kmínového 16.12Kč a průměrná cena mléka polotučného pasterovaného 14.44 Kč. V tomto roce by bylo možné z průměrné mzdy koupit 1287 kg chleba či 1437 l mléka.   
+
+
+Z dostupných dat vyplývá, že v posledním srovnatelným období, které je rok 2018, byla průměrná roční mzda 32535.86 Kč. V tomto roce byla průměrná cena chleba konzumního kmínového 24.24Kč a průměrná cena mléka polotučného pasterovaného 19.82 Kč. V tomto roce by bylo možné z průměrné mzdy koupit 1342 kg chleba či 1642 l mléka.   
