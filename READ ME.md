@@ -24,7 +24,7 @@ Tabulka s názvem t_Ivana_Kingma_project_SQL_secondary_final.
 5. Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
 
 # Obsah projektu:
-- read.me
+- README.md
 - složka Dokumentace k výzkumným otázkám obsahující tyto soubory:
 	- dokumentace 1.otázka
 	- dokumentace 2.otázka
