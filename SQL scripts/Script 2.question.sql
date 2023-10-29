@@ -1,7 +1,5 @@
-
-
-----Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
----pocty za prvni srovnatelne obdobi---
+---2.Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
+---počty za prvni srovnatelne obdobi---
 
 SELECT
 	product_name,
@@ -17,7 +15,7 @@ GROUP BY
 ORDER BY `year` ASC  
 LIMIT 2
 ;
-----pocty za posledni srovnatelne obdobi---
+----počty za posledni srovnatelne obdobi---
 
 SELECT
 	product_name,

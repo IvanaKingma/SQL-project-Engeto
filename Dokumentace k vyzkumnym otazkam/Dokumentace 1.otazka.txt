@@ -1,0 +1,41 @@
+Dokumentace 1.otázka
+Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+
+Z dat vyplývá, že mzdy v průběhu let nerostou ve všech odvětvích.
+V tabulce níže jsou odvětví, ve kterých mzdy meziročně v daných letech klesly.
+V ostatních odvětvích mzdy meziročně rostly.
+
+
+Průmyslové odvětví			hr.mzda	rok	hr.mzda	rok	meziroční 									pokles 										mzdy
+	
+Administrativní a podpůrné činnosti	17041	2012	16829	2013	-1.24
+Činnosti v oblasti nemovitostí		20790	2008	20706	2009	-0.40
+Činnosti v oblasti nemovitostí		22553	2012	22152	2013	-1.78
+Informační a komunikační činnosti	46641	2012	46155	2013	-1.04
+Kulturní, zábavní a rekreační činnosti	20808	2012	20511	2013	-1.43
+Peněžnictví a pojišťovnictví		50801	2012	46317	2013	-8.83
+Profesní, vědecké a technické činnosti	31791	2009	31602	2010	-0.59
+Profesní, vědecké a technické činnosti	32817	2012	31825	2013	-3.02
+Stavebnictví				22850	2012	22379	2013	-2.06
+Těžba a dobývání			29273	2008	28361	2009	-3.12
+Těžba a dobývání			32540	2012	31487	2013	-3.24
+Těžba a dobývání			31487	2013	31302	2014	-0.59
+Těžba a dobývání			31809	2015	31626	2016	-0.58
+Ubytování, stravování a pohostinství	12472	2008	12334	2009	-1.11
+Ubytování, stravování a pohostinství	13205	2010	13131	2011	-0.56
+Velkoobchod a maloobchod; opravy a údržba motorových vozidel	
+					23324	2012	23130	2013	-0.83
+Veřejná správa a obrana; povinné sociální zabezpečení	
+					27035	2009	26944	2010	-0.34
+Veřejná správa a obrana; povinné sociální zabezpečení	
+					26944	2010	26331	2011	-2.28
+Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu	
+					40296	2010	40202	2011	-0.23
+Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu	
+					42657	2012	40762	2013	-4.44
+Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu	
+					41094	2014	40453	2015	-1.56
+Vzdělávání				23416	2009	23023	2010	-1.68
+Zásobování vodou; činnosti související s odpady a sanacemi	
+					23718	2012	23616	2013	-0.43
+Zemědělství, lesnictví, rybářství	17764	2008	17645	2009	-0.67

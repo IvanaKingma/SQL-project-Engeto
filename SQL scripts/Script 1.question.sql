@@ -1,4 +1,4 @@
-1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
+---1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?---
 
 ---zjistime prumernou mzdu v danem roce za jednotlive odvetvi
 
@@ -24,11 +24,11 @@ GROUP BY industry_name,
 SELECT*
 FROM salary_industry_name AS sain
 JOIN salary_industry_name AS sain2 
-ON sain.`year`=sain2.`year`-1
+	ON sain.`year`=sain2.`year`-1
 WHERE sain.industry_name=sain2.industry_name;
 
 
----growth rate=(pres.-past)/past*100 vzorec----pridame sloupec s meyirocnim narustem/snizenim mzdy
+---growth rate=(pres.-past)/past*100 vzorec----pridame sloupec s mezirocnim narustem/snizenim mzdy
 
 WITH salary_industry_name AS
 (
@@ -40,24 +40,20 @@ FROM t_ivana_kingma_project_sql_primary_final tikpspf
 GROUP BY industry_name,
 	`year`)
 SELECT
-sain.industry_name,
-sain.average_year_salary,
-sain.`year`,
-sain2.average_year_salary,
-sain2.`year`,
-round ((sain2.average_year_salary-sain.average_year_salary)/sain.average_year_salary*100, 2) AS increase_salary
+	sain.industry_name,
+	sain.average_year_salary,
+	sain.`year`,
+	sain2.average_year_salary,
+	sain2.`year`,
+	round ((sain2.average_year_salary-sain.average_year_salary)/sain.average_year_salary*100, 2) AS increase_salary
 FROM salary_industry_name AS sain
 JOIN salary_industry_name AS sain2 
-ON sain.`year`=sain2.`year`-1
+	ON sain.`year`=sain2.`year`-1
 WHERE sain.industry_name=sain2.industry_name;
 
 
-
-
-
-
----vzfiltrujeme si klauzuli WHERE kde increase salary je zaporny, v techto letech klesla mzda 
----v techto odvetvich v jednotlivych letech myda klesla
+---vyfiltrujeme si klauzuli WHERE, kde increase salary je zaporny, v těchto letech klesla mzda--- 
+---v těchto odvetvich v jednotlivych letech mzda klesla---
 
 WITH salary_industry_name AS
 (
@@ -69,15 +65,15 @@ FROM t_ivana_kingma_project_sql_primary_final tikpspf
 GROUP BY industry_name,
 	`year`)
 SELECT
-sain.industry_name,
-sain.average_year_salary,
-sain.`year`,
-sain2.average_year_salary,
-sain2.`year`,
-round ((sain2.average_year_salary-sain.average_year_salary)/sain.average_year_salary*100, 2) AS increase_salary
+	sain.industry_name,
+	sain.average_year_salary,
+	sain.`year`,
+	sain2.average_year_salary,
+	sain2.`year`,
+	round ((sain2.average_year_salary-sain.average_year_salary)/sain.average_year_salary*100, 2) AS increase_salary
 FROM salary_industry_name AS sain
 JOIN salary_industry_name AS sain2 
-ON sain.`year`=sain2.`year`-1
+	ON sain.`year`=sain2.`year`-1
 WHERE sain.industry_name=sain2.industry_name
 AND round ((sain2.average_year_salary-sain.average_year_salary)/sain.average_year_salary*100, 2) <0;
 

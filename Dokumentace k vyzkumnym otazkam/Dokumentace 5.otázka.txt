@@ -1,0 +1,19 @@
+Dokumentace 5.otázka
+Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+
+Z dostupných dat nevyplývá žádná přímá souvislost mezi vlivem HDP a změny ve mzdách a cenách potravin.  
+
+Zěmě		Rok	Meziroční nárůst  	Meziroční nárust Meziroční nárust
+				HDP		cen potravin		mzdy	
+Czech Republic	2006	5.57		2007		9.26		6.91
+Czech Republic	2007	2.69		2008		8.92		7.08
+Czech Republic	2008	-4.66		2009		-6.59		2.84
+Czech Republic	2009	2.43		2010		1.52		2.15
+Czech Republic	2010	1.76		2011		4.84		2.33
+Czech Republic	2011	-0.79		2012		7.47		2.61
+Czech Republic	2012	-0.05		2013		6.01		-0.78
+Czech Republic	2013	2.26		2014		-0.62		2.55
+Czech Republic	2014	5.39		2015		-0.69		2.90
+Czech Republic	2015	2.54		2016		-1.41		3.94
+Czech Republic	2016	5.17		2017		7.06		6.40
+Czech Republic	2017	3.2		2018		2.41		7.88
