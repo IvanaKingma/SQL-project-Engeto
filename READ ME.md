@@ -1,16 +1,17 @@
-# SQL projekt
+# SQL projekt Engeto
 
 # Zadání projektu
-Cílem projektu analyzovat dostupnost základních potravin široké veřejnosti prostřednictvím výzkumných otázek v ČR.
+Cílem projektu je analyzovat dostupnost základních potravin široké veřejnosti v ČR prostřednictvím výzkumných otázek.
 
 # Struktrura projektu
 1. úkolem je připravit datové podklady, ve kterých bude možné vidět porovnání dostupnosti potravin na základě průměrných příjmů za určité časové období v ČR. Tabulka s názvem t_Ivana_Kingma_project_SQL_primary_final.
 
-2. úkolem je připravit tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR. Tabulka s názvem t_Ivana_Kingma_project_SQL_secondary_final. 
+2. úkolem je připravit tabulku s HDP, GINI koeficientem a populací dalších evropských států ve stejném období, jako primární přehled pro ČR. 
+Tabulka s názvem t_Ivana_Kingma_project_SQL_secondary_final. 
 
 3. úkolem je připravení SQL datových sad, které z výše připravených tabulek získají datový podklad k odpovězení na vytyčené výzkumné otázky.
 
-## Výzkumné otázky:
+### Výzkumné otázky:
 
 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
 2. Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
