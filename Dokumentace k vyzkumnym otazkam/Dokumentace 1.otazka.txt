@@ -6,7 +6,7 @@ V tabulce níže jsou odvětví, ve kterých mzdy meziročně v daných letech k
 V ostatních odvětvích mzdy meziročně rostly.
 
 
-Průmyslové odvětví			hr.mzda	rok	hr.mzda	rok	meziroční 									pokles 										mzdy
+Průmyslové odvětví			hr.mzda	rok	hr.mzda	rok	meziroční pokles mzdy
 	
 Administrativní a podpůrné činnosti	17041	2012	16829	2013	-1.24
 Činnosti v oblasti nemovitostí		20790	2008	20706	2009	-0.40
