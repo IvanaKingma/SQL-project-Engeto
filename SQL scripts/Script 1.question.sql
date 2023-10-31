@@ -1,3 +1,5 @@
+
+---ivana_13475 Přihlašovací jméno na Discordu-----
 ---1.Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?---
 
 ---zjistime prumernou mzdu v danem roce za jednotlive odvetvi
